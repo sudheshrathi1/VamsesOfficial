@@ -4,6 +4,7 @@
 
 ------
 
+
 <p align='center'>
   <a href="https://wa.me/6289508503105"><img height="30" src="https://telegra.ph/file/74e742d63924a4b4cd625.jpg"></a>
   <a href="https://vamsesofficial.github.io/web/"><img height="30" src="https://telegra.ph/file/e060e09151c3e49652078.jpg"</a>
@@ -12,26 +13,18 @@
 
 </br>
   
-<p align='center'>
-- 🌱 I’m currently learnin
-</p>
-<p align='center'>
-   - C++
-</p>
-<p align='center'>
-  - Node JS
-</p>
-<p align='center'>
-🔭 I’m currently working on My Beautiful House
-</p>
-<p align='center'>
-   ⚡ Fun fact: I really like Indomie
- </p>
-   
- ------
-<p align="center"><a href="https://github.com/VamsesOfficial"><img src="https://github-readme-stats.vercel.app/api?username=VamsesOfficial&show_icons=true&theme=tokyonight"></a></p>
-<p align="center">
-  <a href="https://github.com/VamsesOfficial"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VamsesOfficial&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
-</p>
+  <p align="center">
+<img src="https://telegra.ph/file/31bf36bba2151033b71d4.jpg" alt="RadBot" width="200"/>
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamsesOfficial&" alt="VamsesOfficial" /></p>
+</p>
+<p align="center"> <a href="https://vamsesofficial.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=150&lines=Created+By+Vamses" alt="VamsesOfficial" /> </a> </p>
+<h1 align="center">My Hoby</h1>
+<p align="center">
+🤡 Be The Clown At School
+</p>
+<p align='center'>
+🔭 Exploring Information To Develop My Knowledge
+</p>
+<p align='center'>
+   😴 Sleep To Forget Sadness :) 
+ </p>
