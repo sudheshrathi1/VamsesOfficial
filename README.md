@@ -1,6 +1,6 @@
 ### Hello, i'm Agus👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=VamsesOfficial&description=Hi,%20i%27m%20vamses%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/VamsesOfficial&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ketutagus404&github=Vamses&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Vamses"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=VamsesOfficial&description=Hi,%20i%27m%20vamses%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/VamsesOfficial&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@ketutaguss_&github=Vamses&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Vamses"/>
 
 ------
 
@@ -14,14 +14,10 @@
 </br>
   
   <p align="center">
-<img src="https://telegra.ph/file/31bf36bba2151033b71d4.jpg" alt="RadBot" width="200"/>
+<img src="https://telegra.ph/file/59fab4ae1688c2160b483.jpg" alt="RadBot" width="200"/>
 
 </p>
 <p align="center"> <a href="https://vamsesofficial.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=150&lines=Created+By+Agus" alt="VamsesOfficial" /> </a> </p>
-<h1 align="center">My Hoby</h1>
-<p align="center">
-🤡 Be The Clown At School
-</p>
 <p align='center'>
 🔭 Exploring Information To Develop My Knowledge
 </p>
