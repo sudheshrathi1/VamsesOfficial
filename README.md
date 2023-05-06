@@ -16,7 +16,6 @@
   <p align="center">
 <img src="https://telegra.ph/file/59fab4ae1688c2160b483.jpg" alt="RadBot" width="200"/>
 
-</h1>My Hobby</h1>
 </p>
 <p align="center"> <a href="https://vamsesofficial.github.io"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=150&lines=Created+By+Agus" alt="VamsesOfficial" /> </a> </p>
 <p align='center'>
